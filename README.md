@@ -1,2 +1,2 @@
-# Parcial3_Tarea3
+# Parcial3_Tarea2
 Gauss Seidel
